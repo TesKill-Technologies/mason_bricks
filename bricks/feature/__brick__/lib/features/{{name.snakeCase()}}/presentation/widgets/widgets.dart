@@ -1,1 +1,1 @@
-// feature/{{name.snakeCase()}}
+// feature/{{name.snakeCase()}}/widgets
