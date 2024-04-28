@@ -1,1 +1,1 @@
-// feature/{{name.snakeCase()}}/screens
+// feature/{{name.snakeCase()}}
